@@ -1,0 +1,2 @@
+# Keepass_Chinese_Simplified_Opt
+Keepass 简体中文（Chinese_Simplified）语言包优化版
