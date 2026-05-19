@@ -46,7 +46,8 @@
 
 ## 优化目录
 
-[局部对比图](./Keepass_Chinese_Simplified_diff.png)
+示例：
+![局部对比图](./Keepass_Chinese_Simplified_diff.png)
 
 [**→完整对比目录←**](https://www.diffchecker.com/PXhmd6Ap/)
 
