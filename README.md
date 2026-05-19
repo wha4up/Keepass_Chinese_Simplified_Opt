@@ -29,7 +29,6 @@
    对部分语义存在偏差的翻译进行修正。
    示例：
    - `Compute parameters that lead to a delay of 1 second on this computer.` → **计算参数，使本机运算延迟达到 1 秒。​**（原“参数计算导致在这台电脑上有 1 秒延迟。”）
-      > [!tip]
       > 在 KeePass 中，这个“1 秒延迟”是刻意为之的安全设计（Key Derivation Function 的工作因子）。目的是拖慢解锁速度，以此抵御暴力破解。
    - `Up to date` → **已是最新版本**（原“更新”）
 
