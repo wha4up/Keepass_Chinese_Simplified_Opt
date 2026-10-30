@@ -58,12 +58,11 @@
 ## 优化目录
 
 
-[![对比预览图](./Keepass_Chinese_Simplified_diff.webp)](./CleanDiff_2.58_zh-cn_vs_v2.61-rev2.htm)
+[![对比预览图](./Keepass_Chinese_Simplified_diff.webp)](https://wha4up.github.io/Keepass_Chinese_Simplified_Opt/CleanDiff_2.58_zh-cn_vs_v2.61-rev2.htm)
 
 点击上方预览图可打开**在线完整对照**。若无法访问，也可下载仓库内源文件：
 [CleanDiff_2.58_zh-cn_vs_v2.61-rev2.htm](./CleanDiff_2.58_zh-cn_vs_v2.61-rev2.htm)
 
-</details>
 
 ## 使用方法
 
